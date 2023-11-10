@@ -1,3 +1,5 @@
+package Figuras;
+
 class Punto {
     double x;
     double y;

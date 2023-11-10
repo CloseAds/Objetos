@@ -1,3 +1,5 @@
+package Figuras;
+
 class Rectangulo {
 
     double base;

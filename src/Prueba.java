@@ -1,3 +1,6 @@
+import Figuras.Punto;
+import Figuras.Rectangulo;
+
 public class Prueba {
 
     public static void main(String[]args) throws Exception{
@@ -41,7 +44,7 @@ public class Prueba {
         System.out.println(p2);
 
         Rectangulo r2 = new Rectangulo(5);
-        r2 = r1;
+        //r2 = r1;
         System.out.println("El área es: " +r.calcularArea());
         System.out.println("El perímetro es: "+r.Perimetro());
 
@@ -51,5 +54,7 @@ public class Prueba {
 
         System.out.println("El área es: " +r.calcularArea());
         System.out.println("El perímetro es: "+r.Perimetro());
+
+
     }
 }

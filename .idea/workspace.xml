@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c60649ab-2431-46fa-a58a-c995ccf7bad4" name="Changes" comment="Objetos.iml">
-      <change afterPath="$PROJECT_DIR$/src/Elipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalElipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CuentaBancaria2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CuentaBancaria3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrincipalBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrincipalBancoHackeado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrincipalPaquetes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dam1/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iesoretania/dam1/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/iesoretania/dam2/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudiante/Ejemplo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figuras/Elipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrincipalElipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figuras/PrincipalElipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figuras/Prueba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +58,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Figuras" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +77,9 @@
       <workItem from="1699348302323" duration="1378000" />
       <workItem from="1699433064165" duration="6540000" />
       <workItem from="1699515642331" duration="6244000" />
-      <workItem from="1699617397377" duration="4307000" />
+      <workItem from="1699617397377" duration="5623000" />
+      <workItem from="1699879224275" duration="26000" />
+      <workItem from="1699946943587" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="Objetos.iml">
       <option name="closed" value="true" />
@@ -77,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699521731573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Objetos.iml">
+      <option name="closed" value="true" />
+      <created>1699623777938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699623777938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

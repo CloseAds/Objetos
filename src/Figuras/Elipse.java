@@ -1,4 +1,6 @@
- class Elipse {
+package Figuras;
+
+class Elipse {
 
     double radiomayor;
 
@@ -7,10 +9,7 @@
      public Elipse() {
      }
 
-     public Elipse(double radiomayor, double radiomenor) throws Exception{
-         this.radiomayor = radiomayor;
-         this.radiomenor = radiomenor;
-     }
+
 
      double calcularArea(){
 

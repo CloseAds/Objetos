@@ -1,3 +1,5 @@
+package Figuras;
+
 import Figuras.Punto;
 import Figuras.Rectangulo;
 
@@ -16,22 +18,6 @@ public class Prueba {
 
         System.out.println("El área es: " +r.calcularArea());
         System.out.println("El perímetro es: "+r.Perimetro());
-
-        Persona p = new Persona();
-
-        p.nombre = "Jose María";
-        p.apellidos = "de Castro Mora";
-        p.dni = "26925489S";
-
-        p.imprimirDatos();
-
-        Contacto c1 = new Contacto();
-        c1.nombre = "Chema de Castro";
-        c1.telefono = "615 18 99 08";
-
-        Contacto c2 = new Contacto();
-        c2.nombre = "Jose María";
-        c2.telefono = "789 34 55 56";
 
         Punto p1 = new Punto();
         p1.x = 1;

@@ -1,3 +1,7 @@
+package Figuras;
+
+import Figuras.Elipse;
+
 import java.util.Scanner;
 
 public class PrincipalElipse {

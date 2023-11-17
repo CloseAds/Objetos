@@ -2,53 +2,41 @@ package Ejercicios.ejercicio1;
 
 import java.util.Random;
 import java.util.Scanner;
-
+                                        // no tiene escaner solo set y get;
 class Persona {
 
-    private String DNI;
+    private String dni;
 
-    private String edad;
+    private int edad;
 
     private char sexo;
 
     private String nombre;
 
-    private String peso;
+    private double peso;
 
-    private String altura;
+    private double altura;
 
+    public Persona(String nombre, String dni, double altura, double peso, char sexo, int edad) {
+        this.dni = dni;
+        this.sexo = sexo;
+        this.altura = altura;
+        this.nombre = nombre;
+        this.peso = peso;
+        this.edad = edad;
 
-     public void getSexo(char sexo) {
-
-         this.sexo = sexo;
-
-     }
-
-     public void getDNI(String DNI) {
-
-         int max = 10000000;
-         int min = 0;
-
-         for (int i = min; i < max; i++) {
-
-             Random random = new Random();
-
-             int num_DNI = random.nextInt(max - min +1) + min;
-
-             System.out.println("El numero del DNI es: " +num_DNI);
-         }
-         String letras = "TRWAGMYFPDXBNJZSQVHLCKE";
-         int indice = DNIletra % 23;
-         return letras.charAt(indice);
-         this.DNI = DNI;
-     }
-
-     public String getEdad() {
-
-         this.edad = edad;
-     }
-
+    }
     public String getPeso() {
         double peso;
+        return null;
     }
-}
+    public int calcularIMC(){
+
+        double
+
+    }
+                                        }
+
+
+
+

@@ -13,7 +13,7 @@
         this.precioBase = precioBase;
         this.peso = peso;
         this.color = color;
-        this.consumoEnergetico =
+        //this.consumoEnergetico =
 
     }
     public String getColor (){
@@ -70,7 +70,7 @@
 
      public String toString (){
 
-        return "peso:" +this.peso + "Preciobase"
+        return "peso:" +this.peso + "Preciobase";
 
      }
 

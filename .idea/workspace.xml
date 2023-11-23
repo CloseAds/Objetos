@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c60649ab-2431-46fa-a58a-c995ccf7bad4" name="Changes" comment="Objetos.iml">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Electrodomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrincipalElectrodomestico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/ColoresElectrodomesticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeraciones/DiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumConsumoEnergetico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeraciones/EnumPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enumeraciones/MainConsumoEnergetico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/PrincipalPersona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/PrincipalPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/PrincipalProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/PrincipalProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/ejercicio1/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Electrodomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Electrodomestico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrincipalElectrodomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrincipalElectrodomestico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,8 @@
       <workItem from="1700481404836" duration="102000" />
       <workItem from="1700552089823" duration="4925000" />
       <workItem from="1700637786762" duration="2463000" />
-      <workItem from="1700644713225" duration="2344000" />
+      <workItem from="1700644713225" duration="3931000" />
+      <workItem from="1700724318125" duration="4827000" />
     </task>
     <task id="LOCAL-00001" summary="Objetos.iml">
       <option name="closed" value="true" />
@@ -130,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700228586519</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Objetos.iml">
+      <option name="closed" value="true" />
+      <created>1700653336984</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700653336984</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Objetos.iml">
+      <option name="closed" value="true" />
+      <created>1700653674856</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700653674856</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

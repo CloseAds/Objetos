@@ -28,5 +28,4 @@ package Ejercicios.ejercicio1;
      public String toString(){
          return "Descripción: " +this.descripcion+ " ,Precio: " +this.precio;
      }
-     public    
  }

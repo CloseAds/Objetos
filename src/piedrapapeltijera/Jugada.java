@@ -2,23 +2,20 @@ package piedrapapeltijera;
 
 public enum Jugada {
 
-    PIEDRA, PAPEL, TIJERA
+    PIEDRA, PAPEL, TIJERA;
 
-    boolean ganaA(Jugada otra){
+    boolean ganaA(Jugada otra) {
 
-        switch (this){
-            case PIEDRA ->
-            {
+        switch (this) {
+            case PIEDRA -> {
                 if (otra == TIJERA) return true;
                 break;
             }
-            case PAPEL ->
-            {
+            case PAPEL -> {
                 if (otra == PIEDRA) return true;
                 break;
             }
-            case TIJERA ->
-            {
+            case TIJERA -> {
                 if (otra == PAPEL) return true;
                 break;
             }
@@ -26,6 +23,11 @@ public enum Jugada {
                 return false;
             }
         }
-
+        return false;
     }
+
+        boolean empataCon(Jugada otra){
+            return this == otra;
+        }
+
 }

@@ -13,9 +13,9 @@ public class MainConsumoEnergetico {
         System.out.println(ce1.name());
         System.out.println(ce2.name());
 
-        for (int i = 0; i < ce1.l; i++) {
+        //for (int i = 0; i < ce1.l; i++) {
 
         }
     }
 
-}
+

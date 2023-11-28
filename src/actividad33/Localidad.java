@@ -10,4 +10,6 @@ public class Localidad {
 
     private int numerohabitantes;
 
+    public Localidad() {
+    }
 }

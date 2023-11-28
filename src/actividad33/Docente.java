@@ -2,7 +2,7 @@ package actividad33;
 
 public class Docente {
 
-    private String nombreDocenre;
+    private String nombreDocente;
 
     private String apellidosDocente;
 
@@ -10,4 +10,6 @@ public class Docente {
 
     private String NRP;
 
+    public Docente() {
+    }
 }

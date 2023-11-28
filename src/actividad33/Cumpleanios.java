@@ -9,4 +9,6 @@ public class Cumpleanios {
     private int mes;
     private int anio;
 
+    public Cumpleanios() {
+    }
 }

@@ -12,6 +12,7 @@ public class Grupo {
     private String estudiante;
 
 
+
     public Grupo(String cumpleanios, String nombreGrupo, Localidad nombreLocalidad, String tutor, String estudiante) {
         this.cumpleanios = cumpleanios;
         this.nombreGrupo = nombreGrupo;

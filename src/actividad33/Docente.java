@@ -11,5 +11,6 @@ public class Docente {
     private String NRP;
 
     public Docente() {
+
     }
 }
